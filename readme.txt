@@ -1,3 +1,7 @@
+questo è il codice in index.html
+Attenzione: Benvenuti su questo fork di wordpress,non installatelo!
+si usa solo per test di sicurezza,per questo c'è le cartelle bug, virus e debug.
+
 <!DOCTYPE html>
 <html>
 <head>
@@ -96,3 +100,5 @@
 
 </body>
 </html>
+
+
