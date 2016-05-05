@@ -1,7 +1,7 @@
-questo è il codice in index.html (non aggiornato come l' originale)
-prima leggete l'avviso qui sotto:
-Attenzione: Benvenuti su questo fork di wordpress,non installatelo!
-si usa solo per test di sicurezza,per questo c'è le cartelle bug, virus e debug.
+This is the code in index.html ( not updated as the ' Original )
+first read the warning below :
+Attention: Welcome to this wordpress fork , do not install it !
+It is used for safety testing only , for this is the wp-bug folders , wp-virus and wp-debugging .
 
 <!DOCTYPE html>
 <html>
