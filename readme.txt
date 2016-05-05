@@ -1,4 +1,5 @@
-questo è il codice in index.html
+questo è il codice in index.html (non aggiornato come l' originale)
+prima leggete l'avviso qui sotto:
 Attenzione: Benvenuti su questo fork di wordpress,non installatelo!
 si usa solo per test di sicurezza,per questo c'è le cartelle bug, virus e debug.
 
